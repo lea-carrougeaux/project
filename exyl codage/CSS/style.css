@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css2?family=Asap&family=Roboto&display=swap" rel="stylesheet);
+@import url("components/container.css");
+@import url("components/Avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/avatar.css");
+
+body {
+	font-family: 'Asap', sans-serif;
+	font-size: 18px;
+	background-color: #EEF4EB;
+}
+
+h1, h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+
+h3 {
+	font-family: 'Asap', sans-serif;
+	font-size: 24px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+	text-align: left;
+}

@@ -1,0 +1,23 @@
+.btn-green{
+	width: 400px;
+	margin-bottom: 0px;
+	margin-top: 40px;
+	margin: 25;
+	padding: 25px;
+	background-color: #7fb685;
+	border-radius: 4px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	text-align: center;
+}
+
+.btn-green:hover{
+	background-color: #426a5a;
+	cursor: pointer;
+	transform: scale(1.2);
+}
+
+.btn-green a{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
